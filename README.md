@@ -41,7 +41,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import forEachCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-code-point@deno/mod.js';
+import forEachCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-code-point@v0.0.1-deno/mod.js';
 ```
 
 #### forEachCodePoint( str, clbk\[, thisArg ] )
@@ -109,7 +109,7 @@ var cnt = ctx.count;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import forEachCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-code-point@deno/mod.js';
+import forEachCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-for-each-code-point@v0.0.1-deno/mod.js';
 
 function log( value, index ) {
     console.log( '%d: %s', index, value );
