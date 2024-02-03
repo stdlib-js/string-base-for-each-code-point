@@ -166,6 +166,14 @@ forEachCodePoint( '\uD834\uDD1E', log );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/string-base/for-each`][@stdlib/string/base/for-each]</span><span class="delimiter">: </span><span class="description">invoke a function for each UTF-16 code unit in a string.</span>
+-   <span class="package-name">[`@stdlib/string-base/for-each-grapheme-cluster`][@stdlib/string/base/for-each-grapheme-cluster]</span><span class="delimiter">: </span><span class="description">invoke a function for each grapheme cluster (i.e., user-perceived character) in a string.</span>
+-   <span class="package-name">[`@stdlib/string-for-each`][@stdlib/string/for-each]</span><span class="delimiter">: </span><span class="description">invoke a function for each character in a string.</span>
+
 </section>
 
 <!-- /.related -->
@@ -241,6 +249,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/string-base-for-each-code-point/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-base-for-each-code-point/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/string/base/for-each]: https://github.com/stdlib-js/string-base-for-each
+
+[@stdlib/string/base/for-each-grapheme-cluster]: https://github.com/stdlib-js/string-base-for-each-grapheme-cluster
+
+[@stdlib/string/for-each]: https://github.com/stdlib-js/string-for-each
+
+<!-- </related-links> -->
 
 </section>
 
